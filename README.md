@@ -25,6 +25,6 @@
 ⢿⣥⣀⣺⠇⠀⠀⢠⠇⣰⠏⠀⠀⠀⠀⠀⠀⣿⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣿⡜⠀⣇⠀⠀⠀⠀⠀⠀⠀⢹⠀⠀⠁⠀⠀⢸⣿⠁⠀⠀⠀
 ⠀⠹⣿⡁⠀⠀⠀⢸⠀⣯⠀⠀⠀⠀⠀⢀⣴⠃⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠙⢦⡀⠀⠀⠀⣀⣴⠏⠀⢀⡇⠀⣰⡿⠁⠀⠀⠀⠀
 ⠀⠀⠈⢿⣦⡀⠀⠀⢣⡘⢦⣄⣀⣤⠶⠋⣡⣾⠟⠿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠿⠿⠿⠟⢿⣦⣀⠉⠉⠉⠉⠉⠀⢀⡤⢋⣠⡾⠋⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠉⡛⣷⣶⣤⡭⠷⠤⣤⣴⣶⣟⡛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣻⣿⣷⣶⣶⣶⣴⣷⣾⣿⠛⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠉⡛⣷⣶⣤⡭⠷⠤⣤⣴⣶⣟⡛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⣻⣿⣷⣶⣶⣶⣴⣷⣾⣿⠛
 
-*A knowledge-base for all things ASRG - systems programming, cybersec exploits and core-cs engineering.*
+#### *A knowledge-base for all things ASRG - systems programming, cybersec exploits and core-cs engineering.*
